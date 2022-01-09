@@ -1,1 +1,2 @@
 # odin-recipes
+This project consists of a main index page that will link a few recipes. By the end of this project, I will demonstrate the foundations of HTML, a fundamental building block of everything on the web.
